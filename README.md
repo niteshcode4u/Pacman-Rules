@@ -79,13 +79,3 @@ Define the `Rules.win?/3` function that takes three arguments (_if Pac-Man has e
 Rules.win?(false, true, false)
 # => false
 ```
-
-## Source
-
-### Created by
-
-- @neenjaw
-
-### Contributed to by
-
-- @Cohen-Carlisle
